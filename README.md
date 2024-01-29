@@ -199,7 +199,7 @@ streamlit run ./🤖Multi_Agents_Group.py
 
 ![case5_1](./pic/case5_1.png)
 
-![case5_2](C:\Users\dell\Downloads\case5_2.png)
+![case5_2](./pic/case5_2.png)
 
 ![case5_3](./pic/case5_3.png)
 
