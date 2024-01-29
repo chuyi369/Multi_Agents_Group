@@ -20,7 +20,7 @@
 
 #### Multi_Agents_Group
 
-#### ![autogen_agentchat](C:\Users\dell\Downloads\autogen_agentchat.png)
+#### ![autogen_agentchat](./pic/autogen_agentchat.png)
 
 此项目 "Multi_Agents_Group" 是一个由多个智能体组成的系统。在这个系统中，每个智能体都具备独立行动的能力，可以处理特定的任务，并与其他智能体进行交互和协作。这个系统的构成包括以下元素：
 
@@ -123,43 +123,43 @@ streamlit run ./🤖Multi_Agents_Group.py
 
 （可选择rag/norag方法，支持上传文件）
 
-![main](C:\Users\dell\Downloads\main.png)
+![main](./pic/main.png)
 
 **设置界面**
 
 （因为自己测试开发故将api_key已经内嵌存储在OAI_CONFIG_LIST中，更换自己的简单调整即可）
 
-![settings](C:\Users\dell\Downloads\settings.png)
+![settings](./pic/settings.png)
 
 ## Case
 
 ### case1:爬取arxiv特定主题论文形成摘要
 
-![case1_1](C:\Users\dell\Downloads\case1_1.png)
+![case1_1](./pic/case1_1.png)
 
 （**可根据回答提供feed back 你是boss**）
 
-![case1_2](C:\Users\dell\Downloads\case1_2.png)
+![case1_2](./pic/case1_2.png)
 
-![case1_3](C:\Users\dell\Downloads\case1_3.png)
+![case1_3](./pic/case1_3.png)
 
-![case1_4](C:\Users\dell\Downloads\case1_4.png)
+![case1_4](./pic/case1_4.png)
 
-![case1_5](C:\Users\dell\Downloads\case1_5.png)
+![case1_5](./pic/case1_5.png)
 
 ### case2:支持形成本地摘要文件
 
 #### arxiv
 
-![case2_1](C:\Users\dell\Downloads\case2_1.png)
+![case2_1](./pic/case2_1.png)
 
-![case2_2](C:\Users\dell\Downloads\case2_2.png)
+![case2_2](./pic/case2_2.png)
 
-![case2_3](C:\Users\dell\Downloads\case2_3.png)
+![case2_3](./pic/case2_3.png)
 
-![case2_4](C:\Users\dell\Downloads\case2_4.png)
+![case2_4](./pic/case2_4.png)
 
-![case2_5](C:\Users\dell\Downloads\case2_5.png)
+![case2_5](./pic/case2_5.png)
 
 ![case2_6](C:\Users\dell\Downloads\case2_6.png)
 
@@ -167,21 +167,21 @@ streamlit run ./🤖Multi_Agents_Group.py
 
 （**角色之间相互提醒纠正任务执行进度 **）
 
-![case2_7](C:\Users\dell\Downloads\case2_7.png)
+![case2_7](./pic/case2_7.png)
 
 （**Agent具有自主执行功能**）
 
-![case2_8](C:\Users\dell\Downloads\case2_8.png)
+![case2_8](./pic/case2_8.png)
 
 #### Google
 
-![case3_1](C:\Users\dell\Downloads\case3_1.png)
+![case3_1](./pic/case3_1.png)
 
-![case3_2](C:\Users\dell\Downloads\case3_2.png)
+![case3_2](./pic/case3_2.png)
 
-![case3_3](C:\Users\dell\Downloads\case3_3.png)
+![case3_3](./pic/case3_3.png)
 
-![case3_4](C:\Users\dell\Downloads\case3_4.png)
+![case3_4](./pic/case3_4.png)
 
 
 
@@ -189,23 +189,23 @@ streamlit run ./🤖Multi_Agents_Group.py
 
 #### FLAML
 
-![case4_1](C:\Users\dell\Downloads\case4_1.png)
+![case4_1](./pic/case4_1.png)
 
 **（多轮对话）**
 
-![case4_2](C:\Users\dell\Downloads\case4_2.png)
+![case4_2](./pic/case4_2.png)
 
 #### 新闻RAG
 
-![case5_1](C:\Users\dell\Downloads\case5_1.png)
+![case5_1](./pic/case5_1.png)
 
 ![case5_2](C:\Users\dell\Downloads\case5_2.png)
 
-![case5_3](C:\Users\dell\Downloads\case5_3.png)
+![case5_3](./pic/case5_3.png)
 
 #### case4:function call
 
-![case6_1](C:\Users\dell\Downloads\case6_1.png)
+![case6_1](./pic/case6_1.png)
 
 
 
