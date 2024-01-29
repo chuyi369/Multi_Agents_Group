@@ -161,7 +161,7 @@ streamlit run ./🤖Multi_Agents_Group.py
 
 ![case2_5](./pic/case2_5.png)
 
-![case2_6](C:\Users\dell\Downloads\case2_6.png)
+![case2_6](./pic/case2_6.png)
 
 
 
